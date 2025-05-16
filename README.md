@@ -3,20 +3,19 @@
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></h2>
 
 <br clear="both">
-<table>
-  <tr>
-    <td>
-      <h3 align="left">I'm Ahmed;</h3>
-      <p align="left">
-        • 1st year computer science student @ Zagazig University<br>
-        • Developer passionate about learning programming and building cool stuff
-      </p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h3 align="left">I'm Ahmed;</h3>
+    <p align="left">
+      • 1st year computer science student @ Zagazig University<br>
+      • Developer passionate about learning programming and building cool stuff
+    </p>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" style="border-radius: 12px;" />
+  </div>
+</div>
+
 
 ---
 
