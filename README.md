@@ -9,6 +9,8 @@
     <p align="left">
       • 1st year computer science student @ Zagazig University<br>
       • Developer passionate about learning programming and building cool stuff
+      • <a href="https://hmody-site.netlify.app" target="_blank" style="text-decoration: none; color: dodgerblue; font-weight: bold;">More about me → hmody.site</a>
+
     </p>
   </div>
   <div style="margin-left: 20px;">
@@ -39,8 +41,6 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="40" alt="azure logo"  />
 </div>
 
 <div align="center">
