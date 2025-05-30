@@ -9,7 +9,7 @@
     <p align="left">
       • 1st year computer science student @ Zagazig University<br>
       • Developer passionate about learning programming and building cool stuff
-      • <a href="https://hmody-site.netlify.app" target="_blank" style="text-decoration: none; color: dodgerblue; font-weight: bold;">More about me → hmody.site</a>
+      • More about me → <a href="https://hmody-site.netlify.app" target="_blank" style="text-decoration: none; color: dodgerblue; font-weight: bold;"> hmody.site</a>
 
     </p>
   </div>
