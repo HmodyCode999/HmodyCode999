@@ -58,7 +58,7 @@
 
 ---
 
-<h3 align="left">Connections <img src="https://media.giphy.com/media/bDmjI02nbbwrRd7s9n/giphy.gif" width="15" style="border-radius: 25%;" /></h3>
+<h3 align="left">Connections <img src="https://media.giphy.com/media/bDmjI02nbbwrRd7s9n/giphy.gif" width="15" style="border-radius: 30%;" /></h3>
 
 <br clear="both">
 <div align="left">
