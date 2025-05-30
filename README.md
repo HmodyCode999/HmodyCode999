@@ -8,8 +8,8 @@
     <h3 align="left">I'm Ahmed;</h3>
     <p align="left">
       • 1st year computer science student @ Zagazig University<br>
-      • Developer passionate about learning programming and building cool stuff </br>
-      •More about me → <a href="https://hmody-site.netlify.app" target="_blank" style="text-decoration: none; color: dodgerblue; font-weight: bold;">hmody.site</a>
+      • Developer passionate about learning programming and building cool stuff<br>
+      • Found more about me at → <a href="https://hmody-site.netlify.app" target="_blank" style="text-decoration: none; color: dodgerblue; font-weight: bold;">hmody.site</a><br>
 </p>
   </div>
   <div style="margin-left: 20px;">
