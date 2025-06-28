@@ -7,7 +7,7 @@
   <div style="flex: 1;">
     <h3 align="left">I'm Ahmed;</h3>
     <p align="left">
-      • 1st year computer science student @ Zagazig University<br>
+      • 2st year computer science student @ Zagazig University<br>
       • Developer passionate about learning programming and building cool stuff<br>
       • Found more about me at → <a href="https://hmody-site.netlify.app" target="_blank" style="text-decoration: none; color: dodgerblue; font-weight: bold;">hmody.site</a><br>
 </p>
